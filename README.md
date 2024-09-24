@@ -1,5 +1,5 @@
 # Robot Trash Sorter
-This project implements a robot that sorts metal and non-metal trash using a conveyor belt system. The main control system uses an ESP32 microcontroller, while an Arduino Uno controls the conveyor belt.
+The Robot Trash Sorter is an innovative IoT project that combines robotics, sensor technology, and web-based control to automate the process of sorting metal and non-metal trash. This system demonstrates the practical application of various technologies in waste management and automation. The main control system uses an ESP32 microcontroller, while an Arduino Uno controls the conveyor belt.
 
 ## Features
 
